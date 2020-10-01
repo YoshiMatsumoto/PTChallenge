@@ -1,0 +1,8 @@
+{
+    "kddi1":"https://api-tokyochallenge.odpt.org/api/v4/files/KDDI/data/KLD100101_1.csv?acl:consumerKey=",
+    "kddi2":"https://api-tokyochallenge.odpt.org/api/v4/files/KDDI/data/KLD100102_1.csv?acl:consumerKey=",
+    "kddi3":"https://api-tokyochallenge.odpt.org/api/v4/files/KDDI/data/KLD100103_1.csv?acl:consumerKey=",
+    "kddi4":"https://api-tokyochallenge.odpt.org/api/v4/files/KDDI/data/KLD100104_1.csv?acl:consumerKey=",
+    "kddi5":"https://api-tokyochallenge.odpt.org/api/v4/files/KDDI/data/KLD100105_1.csv?acl:consumerKey=",
+    "kddi6":"https://api-tokyochallenge.odpt.org/api/v4/files/KDDI/data/KLD100106_1.csv?acl:consumerKey=",
+}
